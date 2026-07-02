@@ -79,3 +79,4 @@ I’ve added my personal notes in the `/notes` folder for quick revision.
 
 ---
 
+# today i have started the journey on 2nd july 2026 
